@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6G1L+d7nVF89o/6g0/+x0X2yiuHM8AKCoixXoc7QTF2d3Y1dI5kaRbHL25Oo4YcsiDnCW17z89KnpTg59WIYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deys1\\source\\repos\\ConsoleApp18\\ConsoleApp18\\ConsoleApp18.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deys1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
