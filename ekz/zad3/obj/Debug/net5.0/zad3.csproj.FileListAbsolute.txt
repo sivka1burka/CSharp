@@ -1,0 +1,16 @@
+C:\Users\ДейнекинС\source\repos\ekz\zad3\bin\Debug\net5.0\zad3.exe
+C:\Users\ДейнекинС\source\repos\ekz\zad3\bin\Debug\net5.0\zad3.deps.json
+C:\Users\ДейнекинС\source\repos\ekz\zad3\bin\Debug\net5.0\zad3.runtimeconfig.json
+C:\Users\ДейнекинС\source\repos\ekz\zad3\bin\Debug\net5.0\zad3.runtimeconfig.dev.json
+C:\Users\ДейнекинС\source\repos\ekz\zad3\bin\Debug\net5.0\zad3.dll
+C:\Users\ДейнекинС\source\repos\ekz\zad3\bin\Debug\net5.0\ref\zad3.dll
+C:\Users\ДейнекинС\source\repos\ekz\zad3\bin\Debug\net5.0\zad3.pdb
+C:\Users\ДейнекинС\source\repos\ekz\zad3\obj\Debug\net5.0\zad3.csprojAssemblyReference.cache
+C:\Users\ДейнекинС\source\repos\ekz\zad3\obj\Debug\net5.0\zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДейнекинС\source\repos\ekz\zad3\obj\Debug\net5.0\zad3.AssemblyInfoInputs.cache
+C:\Users\ДейнекинС\source\repos\ekz\zad3\obj\Debug\net5.0\zad3.AssemblyInfo.cs
+C:\Users\ДейнекинС\source\repos\ekz\zad3\obj\Debug\net5.0\zad3.csproj.CoreCompileInputs.cache
+C:\Users\ДейнекинС\source\repos\ekz\zad3\obj\Debug\net5.0\zad3.dll
+C:\Users\ДейнекинС\source\repos\ekz\zad3\obj\Debug\net5.0\ref\zad3.dll
+C:\Users\ДейнекинС\source\repos\ekz\zad3\obj\Debug\net5.0\zad3.pdb
+C:\Users\ДейнекинС\source\repos\ekz\zad3\obj\Debug\net5.0\zad3.genruntimeconfig.cache

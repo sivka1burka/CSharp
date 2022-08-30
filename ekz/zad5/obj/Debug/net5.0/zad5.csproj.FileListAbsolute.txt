@@ -1,0 +1,16 @@
+C:\Users\deys1\Desktop\ekz\zad5\bin\Debug\net5.0\zad5.exe
+C:\Users\deys1\Desktop\ekz\zad5\bin\Debug\net5.0\zad5.deps.json
+C:\Users\deys1\Desktop\ekz\zad5\bin\Debug\net5.0\zad5.runtimeconfig.json
+C:\Users\deys1\Desktop\ekz\zad5\bin\Debug\net5.0\zad5.runtimeconfig.dev.json
+C:\Users\deys1\Desktop\ekz\zad5\bin\Debug\net5.0\zad5.dll
+C:\Users\deys1\Desktop\ekz\zad5\bin\Debug\net5.0\ref\zad5.dll
+C:\Users\deys1\Desktop\ekz\zad5\bin\Debug\net5.0\zad5.pdb
+C:\Users\deys1\Desktop\ekz\zad5\obj\Debug\net5.0\zad5.csproj.AssemblyReference.cache
+C:\Users\deys1\Desktop\ekz\zad5\obj\Debug\net5.0\zad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deys1\Desktop\ekz\zad5\obj\Debug\net5.0\zad5.AssemblyInfoInputs.cache
+C:\Users\deys1\Desktop\ekz\zad5\obj\Debug\net5.0\zad5.AssemblyInfo.cs
+C:\Users\deys1\Desktop\ekz\zad5\obj\Debug\net5.0\zad5.csproj.CoreCompileInputs.cache
+C:\Users\deys1\Desktop\ekz\zad5\obj\Debug\net5.0\zad5.dll
+C:\Users\deys1\Desktop\ekz\zad5\obj\Debug\net5.0\ref\zad5.dll
+C:\Users\deys1\Desktop\ekz\zad5\obj\Debug\net5.0\zad5.pdb
+C:\Users\deys1\Desktop\ekz\zad5\obj\Debug\net5.0\zad5.genruntimeconfig.cache

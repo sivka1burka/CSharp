@@ -1,0 +1,16 @@
+C:\Users\ДейнекинС\source\repos\ekz\ekz\bin\Debug\net5.0\ekz.exe
+C:\Users\ДейнекинС\source\repos\ekz\ekz\bin\Debug\net5.0\ekz.deps.json
+C:\Users\ДейнекинС\source\repos\ekz\ekz\bin\Debug\net5.0\ekz.runtimeconfig.json
+C:\Users\ДейнекинС\source\repos\ekz\ekz\bin\Debug\net5.0\ekz.runtimeconfig.dev.json
+C:\Users\ДейнекинС\source\repos\ekz\ekz\bin\Debug\net5.0\ekz.dll
+C:\Users\ДейнекинС\source\repos\ekz\ekz\bin\Debug\net5.0\ref\ekz.dll
+C:\Users\ДейнекинС\source\repos\ekz\ekz\bin\Debug\net5.0\ekz.pdb
+C:\Users\ДейнекинС\source\repos\ekz\ekz\obj\Debug\net5.0\ekz.csprojAssemblyReference.cache
+C:\Users\ДейнекинС\source\repos\ekz\ekz\obj\Debug\net5.0\ekz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДейнекинС\source\repos\ekz\ekz\obj\Debug\net5.0\ekz.AssemblyInfoInputs.cache
+C:\Users\ДейнекинС\source\repos\ekz\ekz\obj\Debug\net5.0\ekz.AssemblyInfo.cs
+C:\Users\ДейнекинС\source\repos\ekz\ekz\obj\Debug\net5.0\ekz.csproj.CoreCompileInputs.cache
+C:\Users\ДейнекинС\source\repos\ekz\ekz\obj\Debug\net5.0\ekz.dll
+C:\Users\ДейнекинС\source\repos\ekz\ekz\obj\Debug\net5.0\ref\ekz.dll
+C:\Users\ДейнекинС\source\repos\ekz\ekz\obj\Debug\net5.0\ekz.pdb
+C:\Users\ДейнекинС\source\repos\ekz\ekz\obj\Debug\net5.0\ekz.genruntimeconfig.cache
